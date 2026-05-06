@@ -27,6 +27,10 @@ a {
   text-decoration: none;
 }
 
+.logo-link {
+  display: flex;
+}
+
 .nav-link {
   display: flex;
   align-items: center;
